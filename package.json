@@ -1,0 +1,24 @@
+{
+  "name": "basic-nodejs-web-scrapping",
+  "version": "1.0.0",
+  "description": "https://www.udemy.com/course/nodejs-web-scraping/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anartzdev/basic-nodejs-web-scrapping.git"
+  },
+  "keywords": [],
+  "author": "Anartz Mugika Ledo <mugan86@gmail.com>(https://mugan86.medium.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anartzdev/basic-nodejs-web-scrapping/issues"
+  },
+  "homepage": "https://github.com/anartzdev/basic-nodejs-web-scrapping#readme",
+  "dependencies": {
+    "axios": "^1.2.2",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
